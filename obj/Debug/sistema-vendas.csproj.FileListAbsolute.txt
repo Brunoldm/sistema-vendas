@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\sistema-vendas\bin\Debug\sistema-vendas.exe.config
+C:\Users\aluno\Desktop\sistema-vendas\bin\Debug\sistema-vendas.exe
+C:\Users\aluno\Desktop\sistema-vendas\bin\Debug\sistema-vendas.pdb
+C:\Users\aluno\Desktop\sistema-vendas\obj\Debug\sistema-vendas.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\sistema-vendas\obj\Debug\sistema-vendas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\sistema-vendas\obj\Debug\sistema-vendas.exe
+C:\Users\aluno\Desktop\sistema-vendas\obj\Debug\sistema-vendas.pdb
